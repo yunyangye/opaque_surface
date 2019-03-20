@@ -1,0 +1,16 @@
+ ReadVarsESO
+ processing:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Duluth.idf\DOE.determination2013_OfficeSmall_STD2013_Duluth.rvi
+ input file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Duluth.idf\DOE.determination2013_OfficeSmall_STD2013_Duluth.eso
+ output file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Duluth.idf\DOE.determination2013_OfficeSmall_STD2013_Duluth.csv
+ getting all vars from:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Duluth.idf\DOE.determination2013_OfficeSmall_STD2013_Duluth.eso
+  number variables requested for output=          29
+ ReadVars Run Time=00hr 00min  3.67sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Duluth.idf\DOE.determination2013_OfficeSmall_STD2013_Duluth.mvi
+ input file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Duluth.idf\DOE.determination2013_OfficeSmall_STD2013_Duluth.mtr
+ output file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Duluth.idf\DOE.determination2013_OfficeSmall_STD2013_DuluthMeter.csv
+ getting all vars from:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Duluth.idf\DOE.determination2013_OfficeSmall_STD2013_Duluth.mtr
+  number variables requested for output=           5
+ ReadVars Run Time=00hr 00min  1.11sec
+ ReadVarsESO program completed successfully.

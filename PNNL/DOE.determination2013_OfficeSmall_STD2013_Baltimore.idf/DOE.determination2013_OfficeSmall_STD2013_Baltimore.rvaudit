@@ -1,0 +1,16 @@
+ ReadVarsESO
+ processing:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Baltimore.idf\DOE.determination2013_OfficeSmall_STD2013_Baltimore.rvi
+ input file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Baltimore.idf\DOE.determination2013_OfficeSmall_STD2013_Baltimore.eso
+ output file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Baltimore.idf\DOE.determination2013_OfficeSmall_STD2013_Baltimore.csv
+ getting all vars from:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Baltimore.idf\DOE.determination2013_OfficeSmall_STD2013_Baltimore.eso
+  number variables requested for output=          29
+ ReadVars Run Time=00hr 00min  3.70sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Baltimore.idf\DOE.determination2013_OfficeSmall_STD2013_Baltimore.mvi
+ input file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Baltimore.idf\DOE.determination2013_OfficeSmall_STD2013_Baltimore.mtr
+ output file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Baltimore.idf\DOE.determination2013_OfficeSmall_STD2013_BaltimoreMeter.csv
+ getting all vars from:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Baltimore.idf\DOE.determination2013_OfficeSmall_STD2013_Baltimore.mtr
+  number variables requested for output=           5
+ ReadVars Run Time=00hr 00min  1.09sec
+ ReadVarsESO program completed successfully.

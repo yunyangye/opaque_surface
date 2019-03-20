@@ -1,0 +1,29 @@
+ ReadVarsESO
+ processing:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Burlington.idf\DOE.determination2013_OfficeSmall_STD2013_Burlington.rvi
+ input file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Burlington.idf\DOE.determination2013_OfficeSmall_STD2013_Burlington.eso
+ output file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Burlington.idf\DOE.determination2013_OfficeSmall_STD2013_Burlington.csv
+ getting all vars from:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Burlington.idf\DOE.determination2013_OfficeSmall_STD2013_Burlington.eso
+  number variables requested for output=          29
+ ReadVars Run Time=00hr 00min  3.92sec
+ ReadVarsESO program completed successfully.
+r 00min  3.91sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Chicago.idf\DOE.determination2013_OfficeSmall_STD2013_Chicago.rvi
+ input file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Chicago.idf\DOE.determination2013_OfficeSmall_STD2013_Chicago.eso
+ output file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Chicago.idf\DOE.determination2013_OfficeSmall_STD2013_Chicago.csv
+ getting all vars from:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Chicago.idf\DOE.determination2013_OfficeSmall_STD2013_Chicago.eso
+  number variables requested for output=          29
+ ReadVars Run Time=00hr 00min  3.89sec
+ ReadVarsESO program completed successfully.
+    8
+ ReadVars Run Time=00hr 00min  4.64sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Chicago.idf\DOE.determination2013_OfficeSmall_STD2013_Chicago.mvi
+ input file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Chicago.idf\DOE.determination2013_OfficeSmall_STD2013_Chicago.mtr
+ output file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Chicago.idf\DOE.determination2013_OfficeSmall_STD2013_ChicagoMeter.csv
+ getting all vars from:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Chicago.idf\DOE.determination2013_OfficeSmall_STD2013_Chicago.mtr
+  number variables requested for output=           5
+ ReadVars Run Time=00hr 00min  1.08sec
+ ReadVarsESO program completed successfully.

@@ -1,0 +1,16 @@
+ ReadVarsESO
+ processing:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Miami.idf\DOE.determination2013_OfficeSmall_STD2013_Miami.rvi
+ input file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Miami.idf\DOE.determination2013_OfficeSmall_STD2013_Miami.eso
+ output file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Miami.idf\DOE.determination2013_OfficeSmall_STD2013_Miami.csv
+ getting all vars from:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Miami.idf\DOE.determination2013_OfficeSmall_STD2013_Miami.eso
+  number variables requested for output=          29
+ ReadVars Run Time=00hr 00min  3.30sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Miami.idf\DOE.determination2013_OfficeSmall_STD2013_Miami.mvi
+ input file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Miami.idf\DOE.determination2013_OfficeSmall_STD2013_Miami.mtr
+ output file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Miami.idf\DOE.determination2013_OfficeSmall_STD2013_MiamiMeter.csv
+ getting all vars from:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\PNNL\DOE.determination2013_OfficeSmall_STD2013_Miami.idf\DOE.determination2013_OfficeSmall_STD2013_Miami.mtr
+  number variables requested for output=           5
+ ReadVars Run Time=00hr 00min  1.11sec
+ ReadVarsESO program completed successfully.

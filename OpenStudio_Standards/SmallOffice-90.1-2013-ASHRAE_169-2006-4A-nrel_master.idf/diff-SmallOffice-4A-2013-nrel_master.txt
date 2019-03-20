@@ -1,0 +1,12 @@
+The surface: PERIMETER_ZN_1_FLOOR in PNNL model has no corresponding surfaces in OSSTD model.
+The surface: PERIMETER_ZN_4_FLOOR in PNNL model has no corresponding surfaces in OSSTD model.
+The surface: ATTIC_SOFFIT_SOUTH in PNNL model has no corresponding surfaces in OSSTD model.
+The surface: ATTIC_ROOF_NORTH in PNNL model has no corresponding surfaces in OSSTD model.
+The surface: ATTIC_ROOF_EAST in PNNL model has no corresponding surfaces in OSSTD model.
+The surface: PERIMETER_ZN_3_WALL_NORTH_DOOR1 in PNNL model has no corresponding surfaces in OSSTD model.
+The surface: PERIMETER_ZN_3_WALL_NORTH_DOOR2 in PNNL model has no corresponding surfaces in OSSTD model.
+The surface: ATTIC_SOFFIT_SOUTH in OSSTD model has no corresponding surfaces in PNNL model.
+The surface: ATTIC_ROOF_EAST in OSSTD model has no corresponding surfaces in PNNL model.
+The surface: ATTIC_ROOF_NORTH in OSSTD model has no corresponding surfaces in PNNL model.
+The surface: PERIMETER_ZN_1_FLOOR in OSSTD model has no corresponding surfaces in PNNL model.
+The surface: PERIMETER_ZN_4_FLOOR in OSSTD model has no corresponding surfaces in PNNL model.

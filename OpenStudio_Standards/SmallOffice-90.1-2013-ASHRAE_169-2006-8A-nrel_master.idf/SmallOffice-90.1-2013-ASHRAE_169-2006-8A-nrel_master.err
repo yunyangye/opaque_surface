@@ -1,0 +1,116 @@
+Program Version,EnergyPlus, Version 9.0.1-bb7ca4f0da, YMD=2019.03.13 17:20,
+   ************* Beginning Zone Sizing Calculations
+   ** Warning ** ProcessScheduleInput: Schedule:Day:Interval="ECONOMIZER MAX OA FRACTION 70 PCT DEFAULT", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Constant="ALWAYS OFF DISCRETE", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** ProcessScheduleInput: Schedule:Constant="ALWAYS ON CONTINUOUS", Blank Schedule Type Limits Name input -- will not be validated.
+   ** Warning ** CheckUsedConstructions: There are 11 nominally unused constructions in input.
+   **   ~~~   ** For explicit details on each unused construction, use Output:Diagnostics,DisplayExtraWarnings;
+   ** Warning ** GetDaylightingControls: Fraction of Zone controlled by the Daylighting reference points is < 1.0.
+   **   ~~~   ** ..discovered in "Daylighting:Controls" for Zone="PERIMETER_ZN_1 ZN", only 0.27 of the zone is controlled.
+   ** Warning ** GetDaylightingControls: Fraction of Zone controlled by the Daylighting reference points is < 1.0.
+   **   ~~~   ** ..discovered in "Daylighting:Controls" for Zone="PERIMETER_ZN_2 ZN", only 0.27 of the zone is controlled.
+   ** Warning ** GetDaylightingControls: Fraction of Zone controlled by the Daylighting reference points is < 1.0.
+   **   ~~~   ** ..discovered in "Daylighting:Controls" for Zone="PERIMETER_ZN_3 ZN", only 0.27 of the zone is controlled.
+   ** Warning ** GetDaylightingControls: Fraction of Zone controlled by the Daylighting reference points is < 1.0.
+   **   ~~~   ** ..discovered in "Daylighting:Controls" for Zone="PERIMETER_ZN_4 ZN", only 0.27 of the zone is controlled.
+   ************* Beginning System Sizing Calculations
+   ************* Beginning Plant Sizing Calculations
+   ** Warning ** GetDXCoils: Coil:Heating:DX:SingleSpeed="CORE_ZN ZN HP HTG COIL 14 CLG KBTU/HR 8.0HSPF" curve values
+   **   ~~~   ** ... Defrost Energy Input Ratio Function of Temperature Curve Name = CORE_ZN ZN HP HTG COIL DEFROST EIR FUNC OF TEMP CURVE 1 output is not equal to 1.0 (+ or - 10%) at rated conditions.
+   **   ~~~   ** ... Curve output at rated conditions = 0.787
+   ** Warning ** GetDXCoils: Coil:Heating:DX:SingleSpeed="PERIMETER_ZN_1 ZN HP HTG COIL 30 CLG KBTU/HR 8.0HSPF" curve values
+   **   ~~~   ** ... Defrost Energy Input Ratio Function of Temperature Curve Name = PERIMETER_ZN_1 ZN HP HTG COIL DEFROST EIR FUNC OF TEMP CURVE 1 output is not equal to 1.0 (+ or - 10%) at rated conditions.
+   **   ~~~   ** ... Curve output at rated conditions = 0.787
+   ** Warning ** GetDXCoils: Coil:Heating:DX:SingleSpeed="PERIMETER_ZN_2 ZN HP HTG COIL 16 CLG KBTU/HR 8.0HSPF" curve values
+   **   ~~~   ** ... Defrost Energy Input Ratio Function of Temperature Curve Name = PERIMETER_ZN_2 ZN HP HTG COIL DEFROST EIR FUNC OF TEMP CURVE 1 output is not equal to 1.0 (+ or - 10%) at rated conditions.
+   **   ~~~   ** ... Curve output at rated conditions = 0.787
+   ** Warning ** GetDXCoils: Coil:Heating:DX:SingleSpeed="PERIMETER_ZN_3 ZN HP HTG COIL 13 CLG KBTU/HR 8.0HSPF" curve values
+   **   ~~~   ** ... Defrost Energy Input Ratio Function of Temperature Curve Name = PERIMETER_ZN_3 ZN HP HTG COIL DEFROST EIR FUNC OF TEMP CURVE 1 output is not equal to 1.0 (+ or - 10%) at rated conditions.
+   **   ~~~   ** ... Curve output at rated conditions = 0.787
+   ** Warning ** GetDXCoils: Coil:Heating:DX:SingleSpeed="PERIMETER_ZN_4 ZN HP HTG COIL 17 CLG KBTU/HR 8.0HSPF" curve values
+   **   ~~~   ** ... Defrost Energy Input Ratio Function of Temperature Curve Name = PERIMETER_ZN_4 ZN HP HTG COIL DEFROST EIR FUNC OF TEMP CURVE 1 output is not equal to 1.0 (+ or - 10%) at rated conditions.
+   **   ~~~   ** ... Curve output at rated conditions = 0.787
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = CORE_ZN ZN PSZ-AC-1 1SPD DX HP CLG COIL 14KBTU/HR 14.0SEER but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = PERIMETER_ZN_1 ZN PSZ-AC-2 1SPD DX HP CLG COIL 30KBTU/HR 14.0SEER but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = PERIMETER_ZN_2 ZN PSZ-AC-3 1SPD DX HP CLG COIL 16KBTU/HR 14.0SEER but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = PERIMETER_ZN_3 ZN PSZ-AC-4 1SPD DX HP CLG COIL 13KBTU/HR 14.0SEER but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = PERIMETER_ZN_4 ZN PSZ-AC-5 1SPD DX HP CLG COIL 17KBTU/HR 14.0SEER but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** Check input. Pump nominal power or motor efficiency is set to 0, for pump=SERVICE WATER LOOP PUMP
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ** Warning ** Processing Monthly Tabular Reports: Variable names not valid for this simulation
+   **   ~~~   ** ...use Output:Diagnostics,DisplayExtraWarnings; to show more details on individual variables.
+   ** Warning ** CalcDoe2DXCoil: Coil:Cooling:DX:SingleSpeed "PERIMETER_ZN_1 ZN PSZ-AC-2 1SPD DX HP CLG COIL 30KBTU/HR 14.0SEER" - Air-cooled condenser inlet dry-bulb temperature below 0 C. Outdoor dry-bulb temperature = -6.28
+   **   ~~~   **  ... Occurrence info = RUN PERIOD 1, 03/27 12:45 - 12:50
+   **   ~~~   ** ... Operation at low ambient temperatures may require special performance curves.
+   ** Warning ** CalcDoe2DXCoil: Coil:Cooling:DX:SingleSpeed "PERIMETER_ZN_2 ZN PSZ-AC-3 1SPD DX HP CLG COIL 16KBTU/HR 14.0SEER" - Air-cooled condenser inlet dry-bulb temperature below 0 C. Outdoor dry-bulb temperature = -1.10
+   **   ~~~   **  ... Occurrence info = RUN PERIOD 1, 04/13 08:56 - 08:58
+   **   ~~~   ** ... Operation at low ambient temperatures may require special performance curves.
+   ** Warning ** CalcDoe2DXCoil: Coil:Cooling:DX:SingleSpeed "CORE_ZN ZN PSZ-AC-1 1SPD DX HP CLG COIL 14KBTU/HR 14.0SEER" - Air-cooled condenser inlet dry-bulb temperature below 0 C. Outdoor dry-bulb temperature = -1.20
+   **   ~~~   **  ... Occurrence info = RUN PERIOD 1, 08/31 05:00 - 05:05
+   **   ~~~   ** ... Operation at low ambient temperatures may require special performance curves.
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-ELECTRICITY" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-DISTILLATE OIL" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-RESIDUAL OIL" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-NATURAL GAS" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ** Warning ** The resource referenced by LifeCycleCost:UsePriceEscalation= "U.S. AVG  COMMERCIAL-COAL" has no energy cost. 
+   **   ~~~   ** ... It is likely that the wrong resource is used. The resource should match the meter used in Utility:Tariff.
+   ************* Simulation Error Summary *************
+   ************* There are 6 unused schedules in input.
+   ************* There are 6 unused week schedules in input.
+   ************* There are 14 unused day schedules in input.
+   ************* Use Output:Diagnostics,DisplayUnusedSchedules; to see them.
+   *************
+   ************* ===== Recurring Error Summary =====
+   ************* The following recurring error messages occurred.
+   *************
+   *************  ** Warning ** Plant loop exceeding upper temperature limit, PlantLoop="MAIN SERVICE WATER LOOP"
+   *************  **   ~~~   **   This error occurred 174954 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=82.222222
+   *************
+   *************  ** Warning ** CalcDoe2DXCoil: Coil:Cooling:DX:SingleSpeed="PERIMETER_ZN_1 ZN PSZ-AC-2 1SPD DX HP CLG COIL 30KBTU/HR 14.0SEER" - Low condenser dry-bulb temperature error continues...
+   *************  **   ~~~   **   This error occurred 119 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=-0.183333 [C]  Min=-11.4 [C]
+   *************
+   *************  ** Warning ** CalcDoe2DXCoil: Coil:Cooling:DX:SingleSpeed="PERIMETER_ZN_2 ZN PSZ-AC-3 1SPD DX HP CLG COIL 16KBTU/HR 14.0SEER" - Low condenser dry-bulb temperature error continues...
+   *************  **   ~~~   **   This error occurred 36 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=-3.333333E-002 [C]  Min=-1.1 [C]
+   *************
+   *************  ** Warning ** CalcDoe2DXCoil: Coil:Cooling:DX:SingleSpeed="CORE_ZN ZN PSZ-AC-1 1SPD DX HP CLG COIL 14KBTU/HR 14.0SEER" - Low condenser dry-bulb temperature error continues...
+   *************  **   ~~~   **   This error occurred 11 total times;
+   *************  **   ~~~   **   during Warmup 0 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=-0.2 [C]  Min=-1.7 [C]
+   *************
+   *************
+   ************* ===== Final Error Summary =====
+   ************* The following error categories occurred.  Consider correcting or noting.
+   ************* Nominally Unused Constructions
+   ************* ..The nominally unused constructions warning is provided to alert you to potential conditions that can cause
+   ************* ..extra time during simulation. Each construction is calculated by the algorithm indicated in the HeatBalanceAlgorithm
+   ************* ..object. You may remove the constructions indicated (when you use the DisplayExtraWarnings option).
+   *************
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 8 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 175145 Warning; 0 Severe Errors; Elapsed Time=00hr 01min  4.77sec

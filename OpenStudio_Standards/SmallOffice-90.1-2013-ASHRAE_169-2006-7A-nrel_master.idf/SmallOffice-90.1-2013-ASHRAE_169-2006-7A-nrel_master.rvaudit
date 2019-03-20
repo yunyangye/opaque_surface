@@ -1,0 +1,16 @@
+ ReadVarsESO
+ processing:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\OpenStudio_Standards\SmallOffice-90.1-2013-ASHRAE_169-2006-7A-nrel_master.idf\SmallOffice-90.1-2013-ASHRAE_169-2006-7A-nrel_master.rvi
+ input file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\OpenStudio_Standards\SmallOffice-90.1-2013-ASHRAE_169-2006-7A-nrel_master.idf\SmallOffice-90.1-2013-ASHRAE_169-2006-7A-nrel_master.eso
+ output file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\OpenStudio_Standards\SmallOffice-90.1-2013-ASHRAE_169-2006-7A-nrel_master.idf\SmallOffice-90.1-2013-ASHRAE_169-2006-7A-nrel_master.csv
+ getting all vars from:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\OpenStudio_Standards\SmallOffice-90.1-2013-ASHRAE_169-2006-7A-nrel_master.idf\SmallOffice-90.1-2013-ASHRAE_169-2006-7A-nrel_master.eso
+  number variables requested for output=          29
+ ReadVars Run Time=00hr 00min  3.36sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\OpenStudio_Standards\SmallOffice-90.1-2013-ASHRAE_169-2006-7A-nrel_master.idf\SmallOffice-90.1-2013-ASHRAE_169-2006-7A-nrel_master.mvi
+ input file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\OpenStudio_Standards\SmallOffice-90.1-2013-ASHRAE_169-2006-7A-nrel_master.idf\SmallOffice-90.1-2013-ASHRAE_169-2006-7A-nrel_master.mtr
+ output file:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\OpenStudio_Standards\SmallOffice-90.1-2013-ASHRAE_169-2006-7A-nrel_master.idf\SmallOffice-90.1-2013-ASHRAE_169-2006-7A-nrel_masterMeter.csv
+ getting all vars from:C:\Users\Administrator\Documents\PNNL-OS-Project\osstd_simulation_post-processing\simulations\OpenStudio_Standards\SmallOffice-90.1-2013-ASHRAE_169-2006-7A-nrel_master.idf\SmallOffice-90.1-2013-ASHRAE_169-2006-7A-nrel_master.mtr
+  number variables requested for output=           8
+ ReadVars Run Time=00hr 00min  3.73sec
+ ReadVarsESO program completed successfully.
